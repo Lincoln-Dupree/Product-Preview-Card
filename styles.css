@@ -109,7 +109,7 @@ body {
 
 .cart-btn:active {
   background-color: var(--green-700);
-  transform: scale(95%);
+  transform: scale(0.95);
 }
 
 .cart-icon {
